@@ -1,7 +1,7 @@
 ﻿___INFO___
 
 {
-  "displayName": "LiveRamp ATS Template",
+  "displayName": "LiveRamp",
   "description": "LiveRamp - Authenticated Traffic Solution",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
@@ -33,7 +33,7 @@ ___TEMPLATE_PARAMETERS___
       }
     ],
     "displayName": "deployment source url",
-    "defaultValue": "https://d3kfooo0914kwr.cloudfront.net/ats.js",
+    "defaultValue": "https://ats.rlcdn.com/ats.js",
     "simpleValueType": true,
     "name": "url",
     "type": "TEXT"
@@ -104,7 +104,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://*.cloudfront.net/ats.js"
+                "string": "https://*.rlcdn.com/*"
               }
             ]
           }
@@ -158,4 +158,4 @@ if (queryPermission('inject_script', url)) {
 
 ___NOTES___
 
-Created on 8/20/2019, 5:43:48 PM
+Created on 9/23/2019, 2:24:00 PM

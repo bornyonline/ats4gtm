@@ -1,5 +1,5 @@
-homepage: "www.liveramp.com",
-documentation: "https://docs.authenticated-traffic-solution.com/",
+homepage: "www.liveramp.com"
+documentation: "https://docs.authenticated-traffic-solution.com/"
 versions:
-  - 1.0.0
+  - 53beafd8fb65f8e92bdf8753ffb3bb343a596ffc
     changeNotes: Initial Release

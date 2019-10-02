@@ -1,3 +1,7 @@
 # google-tag-manager
 
-To learn more about the Authenticated Traffic Solution and our integration with Google Tag Manager, please email ats@liveramp.com.
+LiveRamp's Authenticated Traffic Solution (ATS) provides a privacy-safe and transparent solution, rooted in first-party reader authentications, that delivers enhanced addressability, better consumer visibility, and user control across the open internet. ATS makes it possible for publishers to add people-based identity to advertising inventory, connecting those users directly with marketers. 
+
+Publishers can implement ATS easily to your web properties directly or Google Tag Manager.
+
+For more information around LiveRamp's addressability solutions, read our [blog](https://liveramp.com/blog/launching-authenticated-traffic-solution-for-publishers/) or contact us at ATS@liveramp.com.

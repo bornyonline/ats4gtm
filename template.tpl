@@ -5,12 +5,12 @@ Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
-﻿___INFO___
+___INFO___
 
 {
   "displayName": "LiveRamp",
   "description": "LiveRamp's Authenticated Traffic Solution (ATS) is a privacy-safe, transparent solution rooted in first-party reader authentications. ATS makes it possible for publishers to add people-based identity to advertising inventory, connecting those users directly with marketers.",
-  "categories": ["ADVERTISING", "PERSONALIZATION"],
+  "categories": ["ADVERTISING", "PERSONALIZATION", "REMARKETING", "ATTRIBUTION", "CONVERSION TRACKING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",

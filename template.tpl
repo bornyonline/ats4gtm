@@ -9,7 +9,7 @@ Google may provide), as modified from time to time.
 
 {
   "displayName": "LiveRamp",
-  "description": "LiveRamp - Authenticated Traffic Solution for Publishers",
+  "description": "LiveRamp's Authenticated Traffic Solution (ATS) is a privacy-safe, transparent solution rooted in first-party reader authentications. ATS makes it possible for publishers to add people-based identity to advertising inventory, connecting those users directly with marketers.",
   "categories": ["ADVERTISING", "PERSONALIZATION"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",

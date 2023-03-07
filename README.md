@@ -1,4 +1,4 @@
-# google-tag-manager
+# ATS4GTM
 
 LiveRamp's Authenticated Traffic Solution (ATS) is a privacy-safe, transparent solution rooted in first-party reader authentications. ATS delivers enhanced addressability, better consumer visibility, and more user control across the open internet. ATS makes it possible for publishers to add people-based identity to advertising inventory, connecting those users directly with marketers. 
 
